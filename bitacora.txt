@@ -17,3 +17,7 @@
 (09) checkout RamaB
 (10) añadida direccion cantabria
 (11) git add + commit "paso 11"
+(12) checkout master
+(13) merge RamaA fast foward
+(14) merge RamaB  (resolución de conflitos)
+(15) add + commit "paso 15"
