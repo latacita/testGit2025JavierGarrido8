@@ -29,3 +29,9 @@
 (21) add + commit "paso 21"
 (22) checkout RamaC
 (23) add + commit "paso 23"
+(24) checckout master
+(25) De manera fast foward ya que la Rama C se crea una vez se han realizado lo scambios de master
+(26) merge RamaD (fast forward)
+(27) merge ramaC (ort strategy)
+(28) git tag "conseguido"
+(29) git add + commit "paso 29"
