@@ -9,3 +9,8 @@
 (01) clone
 (02) añadido nombre apellidos
 (03) add + commit "paso 03"
+(04) branch RamaA
+(05) branch RamaB
+(06) checkout RamaA
+(07) añadida direccion santander
+(08) add + commit "paso 08"
