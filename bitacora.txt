@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre): Sánchez Barreiro, Pablo              %%
+%% Alumno (Apellidos, Nombre): Garrido López, JAvier             %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(01) clone
+(02) añadido nombre apellidos
+(03) add + commit "paso 03"
