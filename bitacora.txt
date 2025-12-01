@@ -9,3 +9,6 @@
 (01) clone
 (02) añadido nombre apellidos
 (03) add + commit "paso 03"
+(09) checkout RamaB
+(10) añadida direccion cantabria
+(11) git add + commit "paso 11"
