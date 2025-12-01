@@ -21,3 +21,11 @@
 (13) merge RamaA fast foward
 (14) merge RamaB  (resolución de conflitos)
 (15) add + commit "paso 15"
+(16) branch RamaC
+(17) checkout RamaC
+(18) Añadido direccion
+(19) checkout -b RamaD
+(20) creado fichero calificación
+(21) add + commit "paso 21"
+(22) checkout RamaC
+(23) add + commit "paso 23"
