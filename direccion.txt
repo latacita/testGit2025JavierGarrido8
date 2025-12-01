@@ -2,9 +2,6 @@ Centro:
 Calle:
 Número:
 CP: 
-Ciudad: 
-<<<<<<< HEAD
-Provincia:Santander
-=======
+Ciudad:
 Provincia:Cantabria
->>>>>>> RamaB
+Codigo Postal:
